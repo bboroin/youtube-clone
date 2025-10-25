@@ -1,5 +1,5 @@
 # Youtube-ari
-<img src="https://blog.kakaocdn.net/dna/mnjXF/btrZiWkRV4T/AAAAAAAAAAAAAAAAAAAAALlzOTIoDgeNqGJv63IQdolvT2rryi_30_0hbT-4bV_V/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1759244399&allow_ip=&allow_referer=&signature=UXWFww045KrHofHfro93VDLFHqo%3D" width=100% height=400 />  
+<img src="https://github.com/user-attachments/assets/53bb9b6f-be01-458d-b202-090a04090bac" width=100% height=400 />  
 
 ### 유튜브(Youtube) 사이트를 클론코딩한 개인 프로젝트.
 
